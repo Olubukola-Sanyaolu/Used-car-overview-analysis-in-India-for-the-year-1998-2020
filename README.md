@@ -2,7 +2,7 @@
 ---
 ### Business Problem
 ---
-The used car market from 198 to 2020 has seen significant shits in demand , pricing trends and consumer preferences due to economic factors, technological advancement and policy changes.For car dealership,understanding these trends is critical to maintaining profitability ,optimizing inventory and meeting customer expectations.
+Car dealership face challenges in effectively pricing used vehicles and maintaining an inventory mix that alligns with customers demand.
 
 ### Overview
 ---
