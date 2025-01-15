@@ -1,14 +1,22 @@
 # Used-car-overview-analysis-in-India-for-the-year-1998-2020
+---
+### Business Problem
+---
+The used car market from 198 to 2020 has seen significant shits in demand , pricing trends and consumer preferences due to economic factors, technological advancement and policy changes.For car dealership,understanding these trends is critical to maintaining profitability ,optimizing inventory and meeting customer expectations.
 
 ### Overview
+---
 This project provides insight derived from the analysis of the used car market in India from the year 1998 to 2020.It highlights key trends, customer preferences and actionable recommendation to drive strategic decisions making.
 
 <img width="606" alt="Dashboard(used cars)" src="https://github.com/user-attachments/assets/33fe2121-166a-4875-8441-917e04447487" />
 
+
 ### Methodology
+---
 This analysis was conducted using Excel for data cleaning while PowerBI was used for visualization with data sourced from kaggle.
 
 ### Data Cleaning/Preparation
+---
 1.Data loading and inspection
 2.Handling missing values
 3.Removal of duplicate
@@ -20,6 +28,7 @@ This analysis was conducted using Excel for data cleaning while PowerBI was used
 
 
 ### Key Insights:
+---
 1.Sales Trend:
 Used car prices experienced significant growth from 2005 to 2016, peaking in 2016 before declining post-2016. This may indicate market saturation or economic factors influencing demand.
 
@@ -47,6 +56,7 @@ Total price(rupee): 57k
 
 
 ### Recommendations:
+---
 
 1.Focus on Petrol and Diesel Vehicles:
 Invest in inventory of petrol and diesel cars, as they dominate the market. However, explore and promote alternative fuel vehicles like CNG and electric for future market trends.
